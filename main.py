@@ -17,19 +17,7 @@ if __name__ == '__main__':
     args = DLNLPOptParser()
     config = args.config
 
-    if args.mode == 'bilstm_deepcnn':
-        bilstm_deepcnn = BILSTM_DeepCNN(config, args)
-        bilstm_deepcnn.executeModel()
-    elif args.mode == 'model_attention_tf':
-        model_attention_tf = Model_Attention_tf(config, args)
-        model_attention_tf.executeModel()
-    elif args.mode == 'cnn':
-        cnn = CNN(config, args)
-        cnn.testModel()
-    elif args.mode == 'bilstm':
-        bilstm = BILSTM(config, args)
-        bilstm.executeModel()
-    elif args.mode == 'attention_contextualGRU':
+    if args.mode == 'attention_contextualGRU':
         attention_contexualGRU = Attention_ContexualGRU(config, args)
         attention_contexualGRU.executeModel()
     elif args.mode == 'attention_GRU':
@@ -41,6 +29,3 @@ if __name__ == '__main__':
     elif args.mode == 'contextualGRU':
         contextualGRU = ContexualGRU(config, args)
         contextualGRU.executeModel()
-    elif args.mode == 'attention_lex_GRU':
-        attention_lex_GRU = Attention_Lex_GRU(config, args)
-        attention_lex_GRU.executeModel()

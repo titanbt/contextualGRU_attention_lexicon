@@ -1,0 +1,21 @@
+*.pyc
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*~
+
+.idea/
+
+
+# data
+data/
+
+#w2v
+vec/
+
+runs/
+weights/
+results/
+unit_tests/

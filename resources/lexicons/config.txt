@@ -1,0 +1,7 @@
+./resources/lexicons/BL.txt
+./resources/lexicons/HS-AFFLEX-NEGLEX-unigrams.txt
+./resources/lexicons/S140-AFFLEX-NEGLEX-unigrams.txt
+./resources/lexicons/unigrams-pmilexicon_sentiment_140.txt
+./resources/lexicons/EverythingUnigramsPMIHS.txt
+./resources/lexicons/Maxdiff-Twitter-Lexicon_0to1.txt
+./resources/lexicons/unigrams-pmilexicon.txt

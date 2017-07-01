@@ -4,6 +4,8 @@
 1. Bi-CGRNN + CharAVs + LexW2Vs + GoogleW2Vs
 
   ```#sh run_attention_lex_contextualGRU_s140_sr_w2v.sh```
+  
+   - Trained model: https://drive.google.com/file/d/0B5dxQhIZFZ-1VlhnVGE1by1STGs/view?usp=sharing
 
 2. Bi-CGRNN + CharAVs + LexW2Vs + GloveW2Vs
 

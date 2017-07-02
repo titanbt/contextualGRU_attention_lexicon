@@ -5,11 +5,11 @@
 
   ```#sh run_attention_lex_contextualGRU_s140_sr_w2v.sh```
   
-   - Trained model: https://drive.google.com/file/d/0B5dxQhIZFZ-1VlhnVGE1by1STGs/view?usp=sharing
+    - Trained model: https://drive.google.com/file/d/0B5dxQhIZFZ-1VlhnVGE1by1STGs/view?usp=sharing
    
-   - DependencyW2Vs: https://drive.google.com/file/d/0B5dxQhIZFZ-1eVo5Z0NRelBDV1E/view?usp=sharing
+    - DependencyW2Vs: https://drive.google.com/file/d/0B5dxQhIZFZ-1eVo5Z0NRelBDV1E/view?usp=sharing
    
-   - GoogleW2Vs: https://drive.google.com/file/d/0B5dxQhIZFZ-1X1FsZjBpNVcxYzQ/view?usp=sharing
+    - GoogleW2Vs: https://drive.google.com/file/d/0B5dxQhIZFZ-1X1FsZjBpNVcxYzQ/view?usp=sharing
 
 2. Bi-CGRNN + CharAVs + LexW2Vs + GloveW2Vs
 

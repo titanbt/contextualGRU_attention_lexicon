@@ -5,7 +5,9 @@
 
   ```#sh run_attention_lex_contextualGRU_s140_sr_w2v.sh```
   
-    - Trained model: https://drive.google.com/file/d/0B5dxQhIZFZ-1VlhnVGE1by1STGs/view?usp=sharing (copy the trained model into **weights/attention_context/s140** folder)
+    - Trained model: https://drive.google.com/file/d/0B5dxQhIZFZ-1VlhnVGE1by1STGs/view?usp=sharing 
+    
+    (copy the trained model into **weights/attention_context/s140** folder)
    
     - DependencyW2Vs: https://drive.google.com/file/d/0B5dxQhIZFZ-1eVo5Z0NRelBDV1E/view?usp=sharing
    
